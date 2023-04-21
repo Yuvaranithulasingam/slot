@@ -30,7 +30,7 @@ Execute the program using runserver command.
      </head>
      <body bgcolor="white" TEXT=" blue">
 <center>
-     <img src="sec.png"  height="100" width="1000" align="center" /></center>
+     <img src="/static/images/logo.png"  height="100" width="1000" align="center" /></center>
           
           <table border= "4" cellspacing="0px" cellpadding="10px" bgcolor=green" align="center" >
           <CAPTION align=“top”> SLOT TIME TABLE - YUVARANI T(22009033) </CAPTION>
@@ -126,7 +126,7 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-![OUTPUT](http://yuvaranithulasingam.student.saveetha.in:8000/static/images/out.png?raw=true)
+![OUTPUT](http://yuvaranithulasingam.student.saveetha.in:8000/static/images/table.png?raw=true)
 
 ## HTML VALIDATOR
 ![HTML VALIDATOR](http://yuvaranithulasingam.student.saveetha.in:8000/static/images/valid.png?raw=true)
